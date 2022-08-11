@@ -3,22 +3,7 @@
 ### Check out my freshly created portfolio using <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" height="24"/> :
 <a href="https://ervindobri.github.io/"><img src="https://img.shields.io/badge/Portfolio-1877F2?style=for-the-badge&logoColor=white&color=00c797"/></a>
 
-<!--
-**ervindobri/ervindobri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-Overview:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Overview:
+### Overview:
 - 🔭 I’m currently working on an ERP system with sales and product catalog modules with Flutter 
 - 🌱 I’m currently learning native iOS development
 <!-- - 👯 I’m looking to collaborate on ... -->
@@ -27,6 +12,13 @@ Overview:
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
+
+### Highlighted Projects:
+- [Penzmuzeum - NFT marketplace for hungarian coins - published to Android & Apple stores](https://play.google.com/store/apps/details?id=hu.mnb.penzmuzeum)
+- [ShowTime - Personal TV Show schedule tracker with Flutter](https://www.github.com/ervindobri/showtime_flutter)
+- [Cheesify - Cheese database app with Flutter](https://www.github.com/ervindobri/cheesify)
+- [MyoExercises - Treating flat foot with games using Myo Armband & Unity ](https://github.com/ervindobri/MyoExercises)
+- [Backrec - Record football videos & trim highlights with Flutter](https://github.com/ervindobri/backrec_flutter)
 
 ### Check out my github stats:
 
