@@ -1,6 +1,6 @@
 ### Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 
-### Check out my freshly created portfolio using <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" height="24"/> :
+### Check out portfolio:
 <a href="https://ervindobri.github.io/"><img src="https://img.shields.io/badge/Portfolio-1877F2?style=for-the-badge&logoColor=white&color=00c797"/></a>
 
 ### Overview:
@@ -20,10 +20,11 @@
 - [MyoExercises - Treating flat foot with games using Myo Armband & Unity ](https://github.com/ervindobri/MyoExercises)
 - [Backrec - Record football videos & trim highlights with Flutter](https://github.com/ervindobri/backrec_flutter)
 
+<!---
 ### Check out my github stats:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ervindobri&show_icons=true&theme=tokyonight&count_private=true)
-
+-->
 
 ### Contact me & follow my work:
 
