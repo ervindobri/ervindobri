@@ -4,8 +4,8 @@
 <a href="https://ervindobri.github.io/"><img src="https://img.shields.io/badge/Portfolio-1877F2?style=for-the-badge&logoColor=white&color=00c797"/></a>
 
 ### Overview:
-- 🔭 I’m currently working on an ERP system with sales and product catalog modules with Flutter 
-- 🌱 I’m currently learning native iOS development
+- 🔭 Working for Deutsche Telekom as a mobile developer
+- 🌱 I’m currently learning Swift
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about  -->
