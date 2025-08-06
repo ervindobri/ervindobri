@@ -1,11 +1,11 @@
 ### Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 
-### Check out portfolio:
+### Check out portfolio (WIP):
 <a href="https://ervindobri.github.io/"><img src="https://img.shields.io/badge/Portfolio-1877F2?style=for-the-badge&logoColor=white&color=00c797"/></a>
 
 ### Overview:
-- 🔭 Working for Deutsche Telekom as a mobile developer
-- 🌱 I’m currently learning Swift
+- 🔭 Working as a Flutter engineer since 2020
+- 🌱 I’m currently learning Swift & mastering Dart
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about  -->
