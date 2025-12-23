@@ -3,9 +3,14 @@
 ### Check out portfolio (WIP):
 <a href="https://ervindobri.github.io/"><img src="https://img.shields.io/badge/Portfolio-1877F2?style=for-the-badge&logoColor=white&color=00c797"/></a>
 
+
+# Support my work: 
+<a href="https://buymeacoffee.com/ervindobri"><img width="300" height="72" alt="image" src="https://github.com/user-attachments/assets/c188303f-51ca-4963-b842-17a099b330a2" /></a>
+
 ### Overview:
 - 🔭 Working as a Flutter engineer since 2020
-- 🌱 I’m currently learning Swift & mastering Dart
+- 🌱 I’m currently learning Swift & mastering Dart along Portuguese language!
+- 👯💬 Open for cool opportunities and cool projects!
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about  -->
