@@ -3,6 +3,8 @@
 ### Check out portfolio (WIP):
 <a href="https://ervindobri.github.io/"><img src="https://img.shields.io/badge/Portfolio-1877F2?style=for-the-badge&logoColor=white&color=00c797"/></a>
 
+### My latest work & experience: 
+<img width="600" height="570" alt="image" src="https://media.licdn.com/dms/image/v2/D4D22AQGdHo0_n6ootw/feedshare-image-high-res/B4DaCvSd_cJUAU-/0/1789647250235?e=1791417600&v=beta&t=4lzYAJNP0LN3jcjzQj92neMJjysebM0vAaZ47S_Jlsk" />
 
 # Support my work: 
 <a href="https://buymeacoffee.com/ervindobri"><img width="300" height="72" alt="image" src="https://github.com/user-attachments/assets/c188303f-51ca-4963-b842-17a099b330a2" /></a>
@@ -19,6 +21,7 @@
 <!-- - ⚡ Fun fact: ... -->
 
 ### Highlighted Projects:
+- [HOAX Coffee - The social app for coffee lovers - Volunteer work](https://play.google.com/store/apps/details?id=com.hoax.hoax&hl=hu)
 - [Penzmuzeum - NFT marketplace for hungarian coins - published to Android & Apple stores](https://play.google.com/store/apps/details?id=hu.mnb.penzmuzeum)
 - [ShowTime - Personal TV Show schedule tracker with Flutter](https://www.github.com/ervindobri/showtime_flutter)
 - [Cheesify - Cheese database app with Flutter](https://www.github.com/ervindobri/cheesify)
